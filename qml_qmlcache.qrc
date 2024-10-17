@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="qml/main.qml">qml/main.qml</file>
+        <file alias="qml/Settings.qml">qml/Settings.qml</file>
+        <file alias="qml/UButton.qml">qml/UButton.qml</file>
+        <file alias="qml/Transfer.qml">qml/Transfer.qml</file>
+    </qresource>
+</RCC>
